@@ -1,0 +1,55 @@
+#wrapper {
+    margin: 50px;
+    background-color: #fff19c;
+    padding: 250px;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 25px;
+    height: 400px;
+    border: double 5px #d8fffe;
+}
+
+#poohImage{
+    height: 350px;
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+}
+
+#likes,
+#dislikes{
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+#par{
+  /* background-color: palegoldenrod; */
+  width: 250px;
+  font-size: 14px;
+  line-height: 1.3rem;
+  float: left;
+  margin-right: 20px;
+  text-align: justify;
+}
+
+#quotes{
+    margin-top: 325px;
+    background-color: #ffffe0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 50px;
+    border: dashed 3px #ff6d6d;
+}
+
+#quotes a{
+    font-size: 14px;
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+}
+
+*{
+    font-family: cursive;
+}
